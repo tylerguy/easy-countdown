@@ -11,7 +11,7 @@ RUN npm install serve -g
 COPY package.json ./
 COPY package-lock.json ./
 
-RUN npm install
+RUN npm install --silent
 
 COPY . ./
 
