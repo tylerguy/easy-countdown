@@ -5,6 +5,8 @@ body {
   font-family: "Roboto Sans";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: black;
+  background-color: black; 
 
 }
 
