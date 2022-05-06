@@ -2,9 +2,12 @@
 
 body {
   margin: 0;
+  background-color: #000000;
+  color: #000000;
   font-family: "Balsamiq Sans";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 code {
