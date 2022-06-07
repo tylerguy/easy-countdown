@@ -12,11 +12,6 @@
     display: flex;
 }
 
-.root:hover {
-    height: 90px;
-    width: 160px;
-}
-
 .numbers {
     display: flex;
     align-items: center;
