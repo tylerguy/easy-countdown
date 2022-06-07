@@ -9,7 +9,7 @@ function Home() {
   const [date, setDate] = useState(new Date());
 
   useEffect(() => {
-    document.title = page.title || ""
+    document.title = window.title || ""
     const inter = setInterval(() => setDate(new Date()), 1000);
     return () => clearInterval(inter);
   }, []);
