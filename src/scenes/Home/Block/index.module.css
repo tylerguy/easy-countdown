@@ -9,6 +9,7 @@
     border-radius: 6px;
     justify-content: center;
     align-items: center;
+    display: flex;
 }
 
 .numbers {
