@@ -5,10 +5,8 @@ body {
   font-family: "Roboto Sans";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: black;
-  background-color: black; 
-  box-shadow: border-box;
-  border: 20px solid red;
+  box-sizing: border-box;
+  background-color: cadetblue;
 
 
 }
